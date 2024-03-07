@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "first_name": "John",
+            "last_name": "Doe",
+            "date_of_birth": "2000-05-15",
+            "current_grade": 10
+        },
+        {
+            "first_name": "Alice",
+            "last_name": "Smith",
+            "date_of_birth": "2001-08-23",
+            "current_grade": 11
+        },
+        {
+            "first_name": "Bob",
+            "last_name": "Johnson",
+            "date_of_birth": "2002-03-10",
+            "current_grade": 9
+        },
+        {
+            "first_name": "Emily",
+            "last_name": "Davis",
+            "date_of_birth": "2000-12-05",
+            "current_grade": 12
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Wilson",
+            "date_of_birth": "2003-02-18",
+            "current_grade": 8
+        }
+    ]
+}
